@@ -7,11 +7,11 @@ export default function Home() {
     <div className={styles.container}>
       
       
-      <ReactPlayer playing loop height='100vh'  url='https://storage.googleapis.com/machine_learnings/Inmates%20-%20Generate%20Interpolation%20Video_%2B213123.mp4' />
+      <ReactPlayer playing loop height='100vh' width='80vw'  url='https://storage.googleapis.com/machine_learnings/Inmates%20-%20Generate%20Interpolation%20Video_%2B213123.mp4' />
 
-      <ReactPlayer playing loop height='100vh' url='https://storage.cloud.google.com/machine_learnings/Inmates%20-%20Generate%20Interpolation%20Video.mp4' />
+      {/* <ReactPlayer playing loop height='80vh' width='80vw'  url='https://storage.cloud.google.com/machine_learnings/Inmates%20-%20Generate%20Interpolation%20Video.mp4' /> */}
 
-
+{/* 
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
@@ -21,9 +21,9 @@ export default function Home() {
         <h1 className={styles.title}>
           Welcome to <a href="https://nextjs.org">Next.js!</a>
         </h1>
+ */}
 
-
-      </main>
+      {/* </main> */}
 
       {/* <footer className={styles.footer}>
         <a
