@@ -7,7 +7,7 @@ export default function Home() {
     <div className={styles.container}>
       
       
-      <ReactPlayer playing loop height='100vh' width='80vw'  url='https://storage.googleapis.com/machine_learnings/Inmates%20-%20Generate%20Interpolation%20Video_%2B213123.mp4' />
+      <ReactPlayer playing loop height='100vh' width='80vw'  url='https://www.youtube.com/watch?v=XW_8Rr1q1A0' />
 
       {/* <ReactPlayer playing loop height='80vh' width='80vw'  url='https://storage.cloud.google.com/machine_learnings/Inmates%20-%20Generate%20Interpolation%20Video.mp4' /> */}
 
