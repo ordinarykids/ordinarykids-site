@@ -6,8 +6,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       
-      
-      <ReactPlayer playing loop height='100vh' width='80vw'  url='https://www.youtube.com/watch?v=XW_8Rr1q1A0' />
+      <h1>OrdinaryKids</h1>
+      <span>©2020</span>
+      {/* <ReactPlayer playing loop height='100vh' width='80vw'  url='https://www.youtube.com/watch?v=XW_8Rr1q1A0' /> */}
 
       {/* <ReactPlayer playing loop height='80vh' width='80vw'  url='https://storage.cloud.google.com/machine_learnings/Inmates%20-%20Generate%20Interpolation%20Video.mp4' /> */}
 
