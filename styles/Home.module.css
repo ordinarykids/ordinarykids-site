@@ -1,7 +1,10 @@
 .container {
   min-height: 100vh;
-  padding: 0 0.5rem;
+  max-width: 400px;
+  margin: auto auto;
   display: flex;
+  font-size: 14px;
+  font-family: georgia;
   flex-direction: column;
   justify-content: center;
   align-items: center;

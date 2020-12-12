@@ -8,6 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "figlet": "^1.5.0",
+    "json-stringify-safe": "^5.0.1",
     "next": "9.5.3",
     "react": "16.13.1",
     "react-dom": "16.13.1",
