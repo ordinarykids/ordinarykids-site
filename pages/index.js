@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 // import standard from 'figlet/importable-fonts/Standard.js'
 //import Figlet from './Figlet.jsx';
 
- 
+import Image from 'next/image'
 // figlet.parseFont('Standard', standard);
  
 export default function Home() {
@@ -28,7 +28,7 @@ export default function Home() {
 
   return (
     <div className={styles.container}>
-      <a href="https://www.aleph.dev"><img src="/ok2.png" alt="me" width="287.5" height="318" /></a>
+      <a href="https://www.aleph.dev"><Image src="/ok2.png" alt="me" width="287.5" height="318" /></a>
     </div>
   ) 
 }
